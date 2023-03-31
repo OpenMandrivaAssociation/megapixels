@@ -1,6 +1,6 @@
 Name:		megapixels
 Version:	0.16.0
-Release:	2
+Release:	3
 License:	GPLv3
 URL:		https://git.sr.ht/~martijnbraam/megapixels
 Source0:	%{name}-%{version}.tar.gz
